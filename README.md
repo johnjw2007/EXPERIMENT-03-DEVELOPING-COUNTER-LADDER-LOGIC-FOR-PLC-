@@ -67,10 +67,26 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
-(Add screenshots of the ladder logic and counter operations in the simulation software.)
-<img width="1039" height="333" alt="image" src="https://github.com/user-attachments/assets/1c0088dd-749f-49c8-8d3d-3d05969f3ef3" />
-<img width="1038" height="332" alt="image" src="https://github.com/user-attachments/assets/5ba8f01b-a773-4d9c-a33e-7ebc7b541a7c" />
-<img width="1037" height="369" alt="image" src="https://github.com/user-attachments/assets/fc4f57dd-aba8-42f7-b588-65e8c8639882" />
+Counter
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/a7679694-a43e-4377-8299-aef29c7bada1" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/99605066-d63e-4b68-aa32-9d59b83ec941" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/c37e24ae-8b8b-4e8f-a690-6f8d806a049f" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/04d95f52-afdd-441b-a989-6737693b326e" />
+
+Up counter
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/edaee3cb-2ae3-4d72-b759-a8c03c1a338e" />
+
+Down Counter
+<img width="1463" height="647" alt="image" src="https://github.com/user-attachments/assets/e5080477-bbe7-4b0c-9155-27b532d2816d" />
+<img width="1463" height="647" alt="image" src="https://github.com/user-attachments/assets/9589ba2b-8a3a-466b-bf20-bbd58c02f6f2" />
+<img width="1509" height="312" alt="image" src="https://github.com/user-attachments/assets/9a35cc73-3b37-4c3a-896f-5bb6d76a8a6c" />
+
+up/down counter
+<img width="1606" height="651" alt="image" src="https://github.com/user-attachments/assets/965283be-096c-49b8-bf86-6543fc5bd885" />
+<img width="1406" height="548" alt="image" src="https://github.com/user-attachments/assets/be3fbf47-7ade-4229-a3ed-6a51b3d92578" />
+<img width="1503" height="193" alt="image" src="https://github.com/user-attachments/assets/b903ba7c-aeb2-41da-b456-ab55b7fb353c" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/9774046f-4e7d-4037-b604-46452b0fda16" />
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/49b979e9-65b5-4de7-aa44-a6f912ffd8f9" />
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
